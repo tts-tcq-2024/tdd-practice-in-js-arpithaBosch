@@ -1,5 +1,5 @@
 const {expect} = require('chai');
-const {add} = require('../src/soundex');
+const {add} = require('../src/stringCalculator');
 
 describe('StringCalculator Algorithm', () => {
   describe('stringCalculatorTests', () => {
